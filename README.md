@@ -102,7 +102,7 @@ sudo apt install libncurses-dev
 
 **Compile**
 ```bash
-git clone https://github.com/anngalstyan/nsexpression.git
+git clone https://github.com/anngalstyan/NSExpression-in-Cpp.git
 cd nsexpression
 mkdir build && cd build
 cmake ..
