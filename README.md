@@ -3,6 +3,8 @@
 A mathematical expression parser and evaluator built from scratch in C++17, inspired by Swift's `NSExpression` class. Parses and evaluates arithmetic expressions, solves equations, and analyzes functions — all without any external math libraries.
 
 
+![screenshot](assets/screenshots/preview.png)
+
 ---
 
 ## How It Works
