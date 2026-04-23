@@ -145,7 +145,3 @@ src/
 - Unit tests for the parser and evaluator covering edge cases
 
 ---
-
-## License
-
-MIT
